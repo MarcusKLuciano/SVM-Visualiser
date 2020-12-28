@@ -1,2 +1,2 @@
 # SVM-Visualiser
-https://svm-visualiser.herokuapp.com/
+svm-visualiser.herokuapp.com/
